@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0185275-993A-4730-A130-B63A78100A4F}|Librarys\\CANDevices\\CANDevices.csproj|c:\\users\\user\\onedrive\\documents\\mpc5744p_can_bootloader\\mpc5744p_bootloader_upmachine\\librarys\\candevices\\zlgcan\\physicalinterface\\zlgusbcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0185275-993A-4730-A130-B63A78100A4F}|Librarys\\CANDevices\\CANDevices.csproj|solutionrelative:librarys\\candevices\\zlgcan\\physicalinterface\\zlgusbcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZlgUsbCan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\Librarys\\CANDevices\\ZlgCAN\\PhysicalInterface\\ZlgUsbCan.cs",
+              "RelativeDocumentMoniker": "Librarys\\CANDevices\\ZlgCAN\\PhysicalInterface\\ZlgUsbCan.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\Librarys\\CANDevices\\ZlgCAN\\PhysicalInterface\\ZlgUsbCan.cs",
+              "RelativeToolTip": "Librarys\\CANDevices\\ZlgCAN\\PhysicalInterface\\ZlgUsbCan.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAPwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:03:50.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

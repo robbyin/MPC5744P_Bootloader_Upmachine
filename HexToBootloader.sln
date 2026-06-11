@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librarys", "Librarys", "{D80FE7AE-76E9-4D9B-A9A9-37FF1352488A}"
 EndProject
@@ -48,9 +48,11 @@ Global
 		{F0185275-993A-4730-A130-B63A78100A4F}.Release|x86.ActiveCfg = Release|Any CPU
 		{F0185275-993A-4730-A130-B63A78100A4F}.Release|x86.Build.0 = Release|Any CPU
 		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Debug|Any CPU.Build.0 = Debug|x86
 		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Debug|x86.ActiveCfg = Debug|x86
 		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Debug|x86.Build.0 = Debug|x86
 		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Release|Any CPU.ActiveCfg = Release|x86
+		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Release|Any CPU.Build.0 = Release|x86
 		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Release|x86.ActiveCfg = Release|x86
 		{EC974F9C-6001-41FC-9967-39C9AF5047A7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection

@@ -50,8 +50,18 @@ namespace NXP_HexParse.Config
             }
             else
             {
-                CommonData.defaultPage = Convert.ToInt32(s);
-                return true;
+                try
+                {
+                    CommonData.defaultPage = Convert.ToInt32(s);
+                    return true;
+                }
+                catch (System.FormatException)
+                {
+                    // Jika format angka gagal diterjemahkan, 
+                    // abaikan dan paksa aplikasi menggunakan halaman default.
+                    WriteDefaultPage(CommonData.defaultPage);
+                    return false;
+                }
             }
         }
 
@@ -82,9 +92,19 @@ namespace NXP_HexParse.Config
             }
             else
             {
-                Point loc = Point.Parse(s);
-                CommonData.defaultLocation = loc;
-                return true;
+                try
+                {
+                    Point loc = Point.Parse(s);
+                    CommonData.defaultLocation = loc;
+                    return true;
+                }
+                catch (System.FormatException)
+                {
+                    // Jika format gagal diterjemahkan (misalnya karena perbedaan format Windows),
+                    // abaikan teks yang salah tersebut dan paksa aplikasi menggunakan posisi default.
+                    WriteDefaultLocation(CommonData.defaultLocation);
+                    return false;
+                }
             }
         }
 
@@ -115,9 +135,19 @@ namespace NXP_HexParse.Config
             }
             else
             {
-                Size loc = Size.Parse(s);
-                CommonData.defaultSize = loc;
-                return true;
+                try
+                {
+                    Size loc = Size.Parse(s);
+                    CommonData.defaultSize = loc;
+                    return true;
+                }
+                catch (System.FormatException)
+                {
+                    // Jika format ukuran gagal diterjemahkan, 
+                    // abaikan dan paksa aplikasi menggunakan ukuran default.
+                    WriteDefaultSize(CommonData.defaultSize);
+                    return false;
+                }
             }
         }
 

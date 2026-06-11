@@ -9,3 +9,11 @@ C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Librarys\SpectialFunctons\bin\D
 C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Librarys\SpectialFunctons\obj\Debug\SpecialFunctons.csprojResolveAssemblyReference.cache
 C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Librarys\SpectialFunctons\obj\Debug\SpecialFunctions.dll
 C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Librarys\SpectialFunctons\obj\Debug\SpecialFunctions.pdb
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\bin\Debug\SpecialFunctions.dll
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\bin\Debug\SpecialFunctions.pdb
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\bin\Debug\NPOI.dll
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\obj\Debug\SpecialFunctons.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\obj\Debug\SpecialFunctons.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\obj\Debug\SpecialF.CC346D82.Up2Date
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\obj\Debug\SpecialFunctions.dll
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\SpectialFunctons\obj\Debug\SpecialFunctions.pdb

@@ -4,16 +4,16 @@
 library
 C#
 .cs
-C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Librarys\BeatfanControls\obj\Debug\
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\BeatfanControls\obj\Debug\
 BeatfanControls
 none
 false
 DEBUG;TRACE
 
-13125502170
+13-731398351
 
-23-2021722279
-17-1629833748
+23-767876683
+17-1053342467
 Animations\WaittingAnimation1.xaml;Buttons\FlatButton1.xaml;Buttons\SwitchButton.xaml;BytesBitsShow\BytesBitsShow1.xaml;Charts\LineChart1.xaml;DynamicDataDisplay\DynamicDataDisplay1.xaml;Indicators\StateIndicator1.xaml;Indicators\StateIndicatorProcessBar.xaml;ProcessBars\CycleProcessBar1.xaml;ProcessBars\CycleProcessBar2.xaml;Shapes\WarnningShape1.xaml;Thermometers\Thermometer1.xaml;TreeViews\TreeView1.xaml;
 
 False

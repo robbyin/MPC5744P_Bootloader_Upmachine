@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\CANDevices\obj\Release\CANDevices.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\CANDevices\obj\Release\CANDevices.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\CANDevices\bin\Release\CANDevices.dll
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\CANDevices\bin\Release\CANDevices.pdb
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\CANDevices\obj\Release\CANDevices.dll
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Librarys\CANDevices\obj\Release\CANDevices.pdb

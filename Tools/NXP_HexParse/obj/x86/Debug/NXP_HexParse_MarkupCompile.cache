@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Tools\NXP_HexParse\obj\x86\Debug\
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Tools\NXP_HexParse\obj\x86\Debug\
 NXP_HexParse
 none
 false
 DEBUG;TRACE
-C:\Users\SB\Desktop\MPC5744P_Bootloader上位机\Tools\NXP_HexParse\App.xaml
-11-1092480006
+C:\Users\user\OneDrive\Documents\MPC5744p_CAN_BOOTLOADER\MPC5744P_Bootloader_Upmachine\Tools\NXP_HexParse\App.xaml
+11967793252
 
-29-1413856032
-181976956434
+29-2037277939
+18-1101649183
 Controls\PageControls\BootloaderPage.xaml;Controls\PageControls\HexParseWithText.xaml;Controls\PageControls\HexParse.xaml;Controls\Windows\DataGridTest.xaml;Controls\Windows\ChangeHexString.xaml;Controls\Windows\InsertHexString.xaml;Controls\Windows\UserMessageBox.xaml;Controls\Windows\HelpWindow.xaml;MainWindow.xaml;Styles\Converter\StringConverter.xaml;Styles\ForWindows\MetroWindowStyle.xaml;
 
 False
