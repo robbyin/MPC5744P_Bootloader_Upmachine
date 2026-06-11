@@ -1,12 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E8E2E-0327-40CA-BC49-9AAE1A1D74FF}|Tools{E36E8E2E-0327-40CA-BC49-9AAE1A1D74FF}|NXP_HexParse||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80FE7AE-76E9-4D9B-A9A9-37FF1352488A}|Librarys{D80FE7AE-76E9-4D9B-A9A9-37FF1352488A}|CANDevices||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC974F9C-6001-41FC-9967-39C9AF5047A7}|Tools\\NXP_HexParse\\NXP_HexParse.csproj|c:\\users\\user\\onedrive\\documents\\mpc5744p_can_bootloader\\mpc5744p_bootloader_upmachine\\tools\\nxp_hexparse\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0185275-993A-4730-A130-B63A78100A4F}|Librarys\\CANDevices\\CANDevices.csproj|c:\\users\\user\\onedrive\\documents\\mpc5744p_can_bootloader\\mpc5744p_bootloader_upmachine\\librarys\\candevices\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CANDevices",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\Librarys\\CANDevices\\CANDevices.csproj",
+              "RelativeDocumentMoniker": "Librarys\\CANDevices\\CANDevices.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\Librarys\\CANDevices\\CANDevices.csproj",
+              "RelativeToolTip": "Librarys\\CANDevices\\CANDevices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-11T09:16:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NXP_HexParse",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\Tools\\NXP_HexParse\\NXP_HexParse.csproj",
+              "RelativeDocumentMoniker": "Tools\\NXP_HexParse\\NXP_HexParse.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\MPC5744p_CAN_BOOTLOADER\\MPC5744P_Bootloader_Upmachine\\Tools\\NXP_HexParse\\NXP_HexParse.csproj",
+              "RelativeToolTip": "Tools\\NXP_HexParse\\NXP_HexParse.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-11T09:15:31.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
